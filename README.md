@@ -15,7 +15,7 @@ Project Contents
 ## 2. How to Run
 
 > [!CAUTION]
->  Before you start, make sure you've already install thinker library and Python
+>  Before you start, make sure you've already installed thinker library and Python
 >
 > Requirements:
 >  - Python 3.x
