@@ -25,9 +25,9 @@ Project Contents
 
 Run in the terminal:
 
-'''bash
+```bash
 python nr_capacity_gui.py
-'''
+```
 
 And the GUI window will appear. 
 
