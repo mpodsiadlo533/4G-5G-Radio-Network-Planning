@@ -88,7 +88,7 @@ if __name__ == "__main__":
     scenario = CapacityModel(
         area_km2=10,
         subscriber_density=5000,
-        l=2,
+        bht_gb_dl=2,
         bht_gb_ul=0.5,
         embb_ratio=0.6,
         urllc_ratio=0.3,
