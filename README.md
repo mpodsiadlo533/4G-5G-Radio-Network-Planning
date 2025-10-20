@@ -1,3 +1,5 @@
+Implemented as part of the _4G/5G Radio Network Planning_ course
+
 # NR Capacity Dimensioning Tool
 
 NR Capacity Dimensioning Tool is a simple application for cellular network (5G/NR) capacity planning. It helps you quickly estimate the required number of base stations (sites) and sectors (cells) based on key technical and business parameters.
